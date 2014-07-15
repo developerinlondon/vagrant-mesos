@@ -21,9 +21,9 @@ apt-get -y install curl git-core mlocate
 
 #Clone Git repo containing config files
 echo "###############################################################"
-echo "Cloning https://github.com/ahunnargikar/vagrant-mesos........"
+echo "Cloning https://github.com/developerinlondon/vagrant-mesos........"
 echo "###############################################################"
-git clone https://github.com/ahunnargikar/vagrant-mesos
+git clone https://github.com/developerinlondon/vagrant-mesos
 cd vagrant-mesos
 git pull
 cd ..
